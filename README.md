@@ -1,10 +1,18 @@
 # Banket
+  Description of the project: to be precise, it is not a site for banquet, restaurant or café. On this website, we will sell a chef’s service of making dishes, not dishes themselves. The web application will present a menu of dishes that the chef offers. The client will select the dishes, and write down the number of guests for his banquet. The client can see how much product they will need to buy for the dishes offered. The chef will be able to see the order as well as a product list. All dishes will be displayed on the site with their photos and a description. Many pictures could be added to a single dish.  The chef could add and delete their dishes from the menu. As the profit, the client will not spend money for delivery and for the place where the client is eating. Also, on the site will be provided contacts of cleaning, waiter services. Reason for choosing that project: our team lead found out that chefs, that offer their service for making a banquet, need a site that will calculate the number of products that will be spent to make dishes. Also, he can contact a person that could be interested in this application.
+
+  Project auditory: Chefs. It will be an individual webpage for each chef. The chef will be able to see orders. They will contact a customer, who will then receive a product list. Currently, the service is in demand in Almaty. The website does have the potential to spread to other cities of our country and even to other nations. Also, the site will be useful to dishwashers and waiter. They will leave their contact to offer their services.
+
+  Aim of the project: Automation of ordering and calculation processes for chefs. The web application will provide the necessary calculations for each order. It will save the cooks time. And the site will also show dishes with descriptions and photos, which will allow you to choose the menu remotely without meeting with the chef in person.
+
+  Project features: The website is a simple website with dynamic features. The backend of the site will use PHP/MySQL languages, which will be easy to understand and edit even for beginners in these languages. The site will accept orders for the banquet. The chefs will be able to see the orders. Also on the site will be presented the calculation of the product required for cooking. For example, each dish contains multiple products, and the website will collect and sum the number of the same products together. The site will present a list of products with their number without repetitions. In addition, the project will have an administration menu, where the administrator can easily change the data for the menu. The administration will be available on a separate page for chefs only. They should write what products will be in the dish, the number of products, the description of the dish and take a picture of it. The site will not display the prices of goods, as it will be difficult to track the prices of goods in each store in Kazakhstan. The site will also feature a range of dishwashers and waiters. They will help you organize a banquet. To leave their contacts, they will pay money. Coworking with us will help them find a job. In addition, the website may have an additional feature that will help you find guests by their places.
+
+  Similar projects: in Kazakhstan, many sites provide any services. They connect employees and customers. Our idea is to gather chefs who provide services on one site so that customers can find them without having to look for them among friends or on sites like Market or OLX. The fact that there are no such sites for holding such services. It will be the first project in Kazakhstan that will make a revolution in the ordering process of banquet services. The site will consist of several features which will help to provide an event. Without our site, they should look for waiters, dishwashers, chefs separately.
+
+
 ERD of our database
 
-
 ![LabProject](https://user-images.githubusercontent.com/68772954/122665510-78c8f680-d1c9-11eb-846a-57f7a20a19f7.png)
-
-
 
 SiteMap of our project
 ![image](https://user-images.githubusercontent.com/68772954/122745718-19dbae00-d2ab-11eb-9b21-14d7e0609a06.png)
