@@ -65,6 +65,28 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             float: left;
             margin-bottom: 1%;
         }
+        
+        
+        #submit {
+            float: left;
+            margin-right: 70%;
+            margin-bottom: 20px;
+            width: 15%;
+            height: 15%;
+            background-color: #252e37;
+            border-radius: 12px;
+            border: 0;
+            box-sizing: border-box;
+            color: #eee;
+            cursor: pointer;
+            font-size: 18px;
+        // outline: 0;
+            text-align: center;
+        }
+
+        #submit:active {
+            background-color: #2F3841FF;
+        }   
     </style>
 
 </head>
@@ -253,7 +275,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         ?>
     </div>
 
-    <input type="submit" name="submit" onclick="SubmitForm()">
+    <input id="submit" type="submit" name="submit" placeholder="Submit">
 </form>
 
 
