@@ -2,9 +2,9 @@
 mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
 // Create mysql connection
 $servername = "localhost";
-$database = "codelab";
+$database = "database";
 $username = "root";
-$password = "MySQLPassIsPassWord";
+$password = "";
 // Create connection
 $conn = new mysqli($servername, $username, $password, $database);
 // Check connection
